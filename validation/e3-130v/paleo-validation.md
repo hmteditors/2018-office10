@@ -3,5 +3,5 @@
 Total observations on this page: 32
 
 ## Profile of entire repository
-Synatically valid observations:  60
+Synatically valid observations:  67
 Observations with syntax errors:  0
