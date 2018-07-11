@@ -2,7 +2,7 @@
 
 ## Internal consistency of records
 
-- **1** text passages are indexed to vb_134v_135r
+- **1** text passages are indexed to vb_135v_136r
 -  **1** text passages are indexed to 135v
 
 
