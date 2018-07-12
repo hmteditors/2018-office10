@@ -18,11 +18,12 @@ See [details in dse-validation.md](./dse-validation.md)
 -  Correctness of named entity identification:  see [ne-verification.md](ne-verification.md)
 ## Overview of page's text contents
 
-**0** analyzed tokens in **0** citable units of text.
+**185** analyzed tokens in **24** citable units of text.
 
 Distribution of token types:
 
-
+- LexicalToken: 182 tokens. 164 distinct tokens.
+- Punctuation: 3 tokens. 2 distinct tokens.
 
 Word data:
 

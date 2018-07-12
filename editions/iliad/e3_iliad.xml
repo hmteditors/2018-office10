@@ -5,8 +5,9 @@
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
-        <editor>SECOND EDITOR's NAME HERE</editor>
+        <editor>Brienna DiPietro</editor>
+        <editor>Maia Lee-Chin</editor>
+        <editor>Philip Muijtjens</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Escorial manuscript Upsilon 1.1 for the Homer Multitext project</p>
@@ -18,8 +19,31 @@
   </teiHeader>
   <text>
     <body>
-      <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+      <div n="10">
+        <l n="291">ὥς νῦν μοι ἐθέλουσα παρίστασο καί με φύλασσε-</l>
+        <l n="292">σοὶ δ' αὖ ἐγὼ ῥέξω βοῦν ἥνιν εὐρυμέτωπον</l>
+        <l n="293">ἀδμήτην- ἣν οὔ πω ὑπὸ ζυγὸν ἤγαγεν ἀνήρ-</l>
+        <l n="294">τήν τοι ἐγὼ ῥέξω. χρυσὸν κέρασιν περιχεύας-</l>
+        <l n="295">ς ἔφαν εὐχόμενοι- τῶν δ' ἔκλυε <persName n="urn:cite2:hmt:pers.v1:pers67">Παλλὰς Ἀθήνη</persName>-</l>
+        <l n="296">οἵ δ' ἐπεὶ ἠρήσαντο <persName n="urn:cite2:hmt:pers.v1:pers8">Διὸς</persName> κούρῂ μεγάλοιο</l>
+        <l n="297">βάν ῥ' ἴμεν ὥς τε λέοντε δύω διὰ νύκτα <choice><abbr>μέλαινα</abbr><expan>μέλαιναν</expan></choice></l>
+        <l n="298">ἄμ φόνον ἄν νέκυας- διά τ' ἔντεα καὶ μελαν αἷμα-</l>
+        <l n="299">Οὐδὲ μὲν οὐδε <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρῶας</rs> ἀγήορας εἴασεν <persName n="urn:cite2:hmt:pers.v1:pers172"> Ἕκτωρ</persName></l>
+        <l n="300">εὕδειν- ἀλλ' ἄμυδις κικλήσκετο πάντας ἀρίστους</l>
+        <l n="301">ὅσσοι ἔσαν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> ἡγήτορες ἠδὲ μέδοντες-</l>
+        <l n="302">τοὺς ὅ γε συγκαλέσας πυκινὴν ἠρτύνετο βουλήν-</l>
+        <l n="303">τίς κέν μοι τόδε ἔργον ὑποσχόμενος τελέσειε</l>
+        <l n="304">δώρῳ ἐπὶ μεγάλωι- μισθὸς δέ οἱ ἄρκιος ἔσται-</l>
+        <l n="305">δώσω γὰρ δίφρόν τε- δύω τ' ἐριαύχενας ἵππους-</l>
+        <l n="306">οἵ κεν ἀριστεύωσι θοῇς ἐπὶ νηυσὶν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs>-</l>
+        <l n="307">ὅς τίς κεν τλαίῃ- οἷ τ' αὐτῷ κῦδος ἄροιτο-</l>
+        <l n="308">νῆων ὠκυπόρων σχεδὸν ἐλθέμεν- ἔκ τε <choice><abbr>πυθέσθ</abbr><expan>πυθέσθαι</expan></choice></l>
+        <l n="309">ἠὲ φυλάσσονται νῆες θοαὶ ὡς τὸ πάρος περ.</l>
+        <l n="310">ἦ ἤδη χείρεσσιν ὑφ' ἡμετέρῃσι δαμέντες,</l>
+        <l n="311">φύξιν βουλεύουσι μετὰ σφίσιν- οὐδ' ἐθέλουσι</l>
+        <l n="312">νυκτα φυλασσέμεναι καμάτωι ἁδηκότες αἰνῷ-</l>
+        <l n="313">Ὥς ἔφαθ' οἱ δ' ἄρα πάντες ἀκὴν ἐγένοντο σιωπῇ-</l>
+        <l n="314">ἦν δέ τις ἐν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώεσσι</rs> <persName n="urn:cite2:hmt:pers.v1:pers474">Δόλων Εὐμήδεος</persName> υἱὸς</l>
       </div>
     </body>
   </text>
