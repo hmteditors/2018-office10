@@ -4,7 +4,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Scholia to Venetus B</title>
-                <author>YOUR NAME HERE</author>
+                <author>Brie DiPietro</author>
+                <author>Maia Lee-Chin</author>
+                <author>Phillip Muijtjens</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -15,18 +17,73 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="15">
-            <text n="msA">
+        <group n="10">
+            <text n="msB">
                 <body>
-                    <div n="PAGE_1" type="scholion">
+                    <div n="135v_1" type="scholion">
                         <div n="lemma">
-                            <p></p>
+                            <p>α</p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.LINE_REFERENCE</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.291</p>
                         </div>
                         <div n="comment">
-                            <p></p>
+                            <p>ὅρα πῶς ὁ συνετώτερος <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεὺς</persName> τὴν εὐχὴν ἐκοινοποιήσατο- οὗτος δὲ, ἰδίᾳ καὶ ἄλλως⁑</p>
+                        </div>
+                    </div>
+                    <div n="135_2" type="scholion">
+                        <div n="lemma">
+                            <p>β</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.299</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὑπὸ τὸν αὐτὸν χρόνον ἀμφότεροι τοὺς κατασκόπους πέμπουσιν συντυγχάνουσι γὰρ ἀλλήλοις ἰόντες- ἀλλ' ὁ ποιητὴς ἐτίμησε τὸ Ἑλληνικὸν. τῇ προτέρα τάξει τοῦ λόγου⁑</p>
+                        </div>
+                    </div>
+                    <div n="135_3" type="scholion">
+                        <div n="lemma">
+                            <p>γ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.300</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὁ μὲν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> θορυβώδης καὶ ἀλαζὼν ὢν- πάντας ἀνοήτως συγκαλεῖ τοὺς ἀρίστους- οἱ δὲ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἕλληνες</rs> βραχεῖς⁑</p>
+                        </div>
+                    </div>
+                    <div n="135_4" type="scholion">
+                        <div n="lemma">
+                            <p>δ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.303</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὁ μὲν <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName> μετὰ προστάξεως τὸν ὑπακουσόμενον τῇ χρείᾳ καλεῖ- ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> ὑποτίθεται- καὶ οἱ μὲ\ν ἃ ἔχουσιν ἐπαγγέλλονται- ὁ δὲ\ ἃ οὐκ ἔχει- καὶ οἱ μὲ\ν δῶρον- ὁ δὲ\ <choice><abbr>ἀτίμ</abbr><expan>ἀτίμως</expan></choice> φησὶ μισθόν⁑</p>
+                        </div>
+                    </div>
+                    <div n="135_5" type="scholion">
+                        <div n="lemma">
+                            <p>ε</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.308</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὁ μὲν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστωρ</persName> <choice><abbr>τ/</abbr><expan>τὴν></expan></choice> πρᾶξιν ἐξεφαύλισεν ἐπὶ φήμης ἀκοὴν <choice><abbr>πέμπ</abbr><expan>πέμπων</expan></choice> τὸν κατάσκοπον- ἤ ἐπῒ σύλληψιν τινὸς πολεμίου μομωθέντος- ὁ δὲ <persName n="urn:cite2:hmt:pers.v1:pers172">Ἕκτωρ</persName>. ἐπὶ τὴν περὶ τῶν ὅλων γνῶσιν⁑</p>
+                        </div>
+                    </div>
+                    <div n="135_6" type="scholion">
+                        <div n="lemma">
+                            <p>ϝ</p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.</p>
+                        </div>
+                        <div n="comment">
+                            <p>διηγήσεως ἐδέησε πρὸς τὸ σημᾶναι τὸ ἄδηλον τοῦ <choice><abbr>ἀνδρό</abbr><expan>ἀνδρός</expan></choice>- ὅπως τοιοῦτος ὢν τῶν <persName n="urn:cite2:hmt:pers.v1:pers1">Ἀχιλλέως</persName> ἴππων ἐρᾷ, καὶ μετὀλίγον προδότης γίνεται- ταχέως δὲ ἅπαντα ἐδήλωσε- τὸ ἔθνος- τὸ ὄνομα αὐτοῦ τε καὶ τοῦ <choice><abbr>πρς</abbr><expan>πατρὸς</expan></choice>- τὴν <choice><abbr>τέχν</abbr><expan>τέχνην</expan></choice>- τὴν τύχην ὅτι πλούσιος- τὴν μορφὴν τοῦ <persName n="urn:cite2:hmt:pers.v1:pers474">Δόλωνος</persName> καὶ τὴν ὠκύτητα⁑</p>
                         </div>
                     </div>
                 </body>
