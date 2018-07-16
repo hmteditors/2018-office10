@@ -2,8 +2,7 @@
 
 ## Internal consistency of records
 
-- **40** text passages are indexed to E3_130v_131r
--  **40** text passages are indexed to 130v
+- Error in indexing: 64 text passages indexed to image E3_130v_131r, but 40 passages indexed to page 130v
 
 
 ## Selection of image for imaging
@@ -13,6 +12,10 @@ Surface **correctly** indexed to only one image.
 
 
 ## Relation of DSE records to text corpus
+
+## Errors
+
+There were inconsistencies in indexing. (See details above.)
 
 There were errors citing texts. 
 
@@ -36,6 +39,10 @@ The following passages in DSE records do not appear in the text corpus:
 -  urn:cts:greekLit:tlg0012.tlg001.e3:10.130v_2
 
 
+
+## Errors
+
+There were inconsistencies in indexing. (See details above.)
 
 There were errors citing texts. 
 
