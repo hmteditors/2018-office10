@@ -28,7 +28,7 @@
 #### 10.136r_6
  ###### translation
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7546,0.4292,0.09967,0.09805&wID=5000&CVT=JPEG)
- ###### δωσέμεν, οἳ **φορέουσιν** ἀμύμονα Πηλείωνα
+ ###### δωσέμεν, οἳ **φορέουσιν** ἀμύμονα Πηλείωνα
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.5057,0.3704,0.2168,0.03375&wID=5000&CVT=JPEG)
  [see these in context](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.7526,0.4265,0.1045,0.1068&urn=urn:cite2:hmt:vbbifolio.v1:vb_135v_136r@0.5107,0.3762,0.2067,0.02589)
 
