@@ -18,7 +18,7 @@
 
 ## 10.135v_4
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.1096,0.3666,0.1008,0.1231&wID=5000&CVT=JPEG)
- ### translation
+ ### Hector, on one hand, calls for someone who will yield to his command out of necessity; Nestor, on the other hand, makes a suggestion. And they [= the Greeks] will promise what they have, but he [= Hector] [promises] what he does not have. And they [= the Greeks] deem it a gift, but he [= Hector] dishonourably deems it a wages.
 -
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.2174,0.4536,0.2240,0.03084&wID=5000&CVT=JPEG)
  ### τίς κέν **μοι** τόδε ἔργον ὑποσχόμενος τελέσειε
@@ -28,7 +28,7 @@
 
 ## 10.136r_4
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7441,0.2197,0.1120,0.08612&wID=5000&CVT=JPEG)
- ### translation
+ ### The unreliability of barbarians becomes evident because they [the Trojans] do not confirm the credibility of their oaths in the right ways.
 -
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.5098,0.3358,0.2303,0.02880&wID=5000&CVT=JPEG)
  ### ἀλλ' ἄγε μοι τὸ **σκῆπτρον** ανάσχεο. καὶ μοι ὄμοσσον
@@ -38,7 +38,7 @@
 
 ## 10.136r_6
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7546,0.4292,0.09967,0.09805&wID=5000&CVT=JPEG)
- ### translation
+ ### Hector says he will give the best [horses]: Dolon on the other hand is asking for Achilles’, knowing that those are the best: it makes clear the absurdity and lack of sense of either of them.
 -
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.5057,0.3704,0.2168,0.03375&wID=5000&CVT=JPEG)
  ### δωσέμεν, οἳ **φορέουσιν** ἀμύμονα Πηλείωνα
@@ -49,7 +49,7 @@
 # "Main Text"
 ## 135v_2
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.1104,0.1632,0.3432,0.04190&wID=5000&CVT=JPEG)
- ### translation
+ ### At the same time both [Nestor and Hector] send watchmen because they meet one another: but the poet honors the Greek [side] 
 -
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.2135,0.3826,0.2255,0.03346&wID=5000&CVT=JPEG)
  ### οὐδὲ μὲν οὐδὲ **Τρῶας** ἀγήνορας εἴασεν Ἕκτωρ
