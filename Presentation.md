@@ -27,7 +27,7 @@
 ---
 
 ## 10.136r_4
- ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7441,0.2197,0.1120,0.08612&wID=5000&CVT=JPEG)
+ ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7552,0.2240,0.1008,0.07507&wID=5000&CVT=JPEG)
  ### The unreliability of barbarians becomes evident because they [the Trojans] do not confirm the credibility of their oaths in the right ways.
 -
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.5098,0.3358,0.2303,0.02880&wID=5000&CVT=JPEG)
@@ -49,7 +49,7 @@
 # "Main Text"
 ## 135v_2
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.1104,0.1632,0.3432,0.04190&wID=5000&CVT=JPEG)
- ### At the same time both [Nestor and Hector] send watchmen because they meet one another: but the poet honors the Greek [side] 
+ ### At the same time both [Nestor and Hector] send watchmen because they meet one another: but the poet honors the Greek [side]
 -
  ![:(](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.2135,0.3826,0.2255,0.03346&wID=5000&CVT=JPEG)
  ### οὐδὲ μὲν οὐδὲ **Τρῶας** ἀγήνορας εἴασεν Ἕκτωρ
