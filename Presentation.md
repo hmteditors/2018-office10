@@ -1,6 +1,6 @@
 
 ---
-title: Homeric Partiality *Iliad* 10
+title: Homeric Partiality *Iliad* 10.291-338
 
 ---
 
@@ -10,6 +10,10 @@ Context in Venetus B: 135v-136r, Lines 291-338
 ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.06595,0.03142,0.8502,0.9249&wID=5000&CVT=JPEG)
 *Iliad* 10.291-10.338
 
+
+---
+
+Greeks vs Trojan
 
 ---
 
@@ -47,7 +51,7 @@ Hector, being clamorous and boastful, summons together all the best (of his men)
 
 135v_4
 
-Hector, on one hand, calls for someone who will yield to his command out of necessity; Nestor, on the other hand, makes a suggestion. And they (the Greeks) will promise what they have, but he (Hector) (promises) what he does not have. And they (the Greeks) deem it a gift, but he (Hector) dishonorably deems it a wages.
+Hector calls for someone who, out of necessity, will yield to his command; Nestor makes a suggestion. And they (the Greeks) will promise what they have, but he (Hector) (promises) what he does not have. And they deem it a gift, but he dishonorably deems it as wages.
 
  ![ ](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.1096,0.3666,0.1008,0.1231&wID=5000&CVT=JPEG)
 
@@ -68,7 +72,7 @@ Hector, on one hand, calls for someone who will yield to his command out of nece
 
 136r_4
 
- The unreliability of barbarians becomes evident because they (the Trojans) do not confirm the assurances by oaths in the right ways.
+ The unreliability of barbarians becomes evident because they (the Trojans) do not confirm their assurances by oaths in the right ways.
 
 
   ![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7552,0.2240,0.1008,0.07507&wID=5000&CVT=JPEG)
@@ -87,7 +91,7 @@ Hector, on one hand, calls for someone who will yield to his command out of nece
 
 136r_6
 
-Hector says he will give the best (horses): Dolon on the other hand is asking for Achilles’, knowing that those are the best: it makes clear the absurdity and lack of sense of either of them.
+Hector says he will give the best (horses): Dolon on the other hand is asking for Achilles’, knowing that those are the best: it makes both men’s absurdity and lack of sense clear.
 
  ![ ](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.7546,0.4292,0.09967,0.09805&wID=5000&CVT=JPEG)
 
@@ -95,6 +99,9 @@ Hector says he will give the best (horses): Dolon on the other hand is asking fo
 
 ---
 
+The Poet
+
+---
 
 *Iliad* 10.3
  ![ ](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.2135,0.3826,0.2255,0.03346&wID=5000&CVT=JPEG)
@@ -108,7 +115,7 @@ Hector says he will give the best (horses): Dolon on the other hand is asking fo
 
 135v_2
 
-At the same time both (Nestor and Hector) send watchmen for they happen to meet one another: the poet however honors the Greek (side) by the placing of their story in front.
+At the same time both (Nestor and Hector) send the watchmen for they meet one another: the poet however honors the Greek (side) by the placement of their story in front.
 
   ![ ](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vbbifolio/v1/vb_135v_136r.tif&RGN=0.1104,0.1632,0.3432,0.04190&wID=5000&CVT=JPEG)
 
@@ -136,13 +143,13 @@ The poet (Homer) appears to be very vexed, what kind of a man makes an attempt a
 
 Conclusions
 
-- There is a well demonstrated preference for the Greeks over the Trojans in our bifolio's scholia
-- Literary criticism, here seen as exegetical scholia, allows a modern reader to see the prejudice of those editing our manuscripts in the 11th century.
+- Our bifolio's scholia demonstrates a dramatic preference for the Greeks over the Trojans.
+- Literary criticism, here seen as exegetical scholia, allows a modern reader to see the assumptions of those editing our manuscripts in the 11th century.
 
  ---
 Further Questions
 
-- Do the other folios show this preference as well?
+- Do the other folios and scholion show this preference as well?
 - Are there preferences for other ethnicities throughout scholia?
 - Could we do a topic model on the scholia across a manuscript broken down by book to find out about these preferences?
-- Could this have influenced how the writing was edited? Would a scribe or scholiast make a minor change in the main text to further support their prejudice?
+- Could this have influenced how the writing was edited? Would a scribe or scholiast make a change in the main text to further support their prejudice or show their assumptions?
