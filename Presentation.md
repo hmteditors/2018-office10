@@ -13,7 +13,7 @@ Context in Venetus B: 135v-136r, Lines 291-338
 
 ---
 
-Greeks vs Trojan
+I. Greeks vs Trojan
 
 ---
 
@@ -99,7 +99,7 @@ Hector says he will give the best (horses): Dolon on the other hand is asking fo
 
 ---
 
-The Poet
+II. The Poet
 
 ---
 
